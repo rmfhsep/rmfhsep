@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/rmfhsep@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### 👋 Hi there, I'm Junghoon
-i'm Junghoon Kim, a paasinate self-taught Frontend web engineer from Seoul, Korea
+i'm Junghoon Kim, a paasinate self-taught Frontend web developer from Seoul, Korea
 
 ### 💪 Stacks
 
