@@ -2,10 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junghoon%20Kim&fontSize=90)
 
+
+### 👋 Hi there, I'm Junghoon
 <a href="https://velog.io/@rmfhsep" target="_blank"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo"/></a>
 <img src="https://img.shields.io/badge/rmfhsep@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-### 👋 Hi there, I'm Junghoon
 i'm Junghoon Kim, a paasinate self-taught Frontend web developer from Seoul, Korea
 
 ### 💪 Stacks
