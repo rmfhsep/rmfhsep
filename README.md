@@ -1,11 +1,11 @@
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/rmfhsep@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@rmfhsep" target="_blank"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo"/></a>
+<img src="https://img.shields.io/badge/rmfhsep@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-#### Hi there 👋
+## Hi there 👋
 I'm Frontend engineer for Web
 
-### 💪 Stacks
+## 💪 Stacks
 
 #### Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
