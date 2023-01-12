@@ -5,7 +5,7 @@
 
 ### 👋 Hi there, I'm Junghoon
 <a href="https://velog.io/@rmfhsep" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://adventurous-bangle-8ec.notion.site/7d137f22e1a242fea61c92c5134f7201" target="_blank"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://adventurous-bangle-8ec.notion.site/7d137f22e1a242fea61c92c5134f7201](https://adventurous-bangle-8ec.notion.site/7265e5dd7ea648039fef0656b704bf12" target="_blank"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/rmfhsep@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 Hello, I'm Junghoon Kim. 
