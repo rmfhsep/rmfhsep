@@ -24,6 +24,7 @@ I'm a paasinate self-taught Frontend web developer using React and JavaScript.
 
 ### Framework & Library
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/></a>
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=Styled components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MUI-007fff?style=flat-square&logo=MUI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
